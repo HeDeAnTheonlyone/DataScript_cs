@@ -1,0 +1,14 @@
+f:\_Code\DataScript_cs\bin\Debug\net8.0\DataScript_cs.exe
+f:\_Code\DataScript_cs\bin\Debug\net8.0\DataScript_cs.deps.json
+f:\_Code\DataScript_cs\bin\Debug\net8.0\DataScript_cs.runtimeconfig.json
+f:\_Code\DataScript_cs\bin\Debug\net8.0\DataScript_cs.dll
+f:\_Code\DataScript_cs\bin\Debug\net8.0\DataScript_cs.pdb
+f:\_Code\DataScript_cs\obj\Debug\net8.0\DataScript_cs.GeneratedMSBuildEditorConfig.editorconfig
+f:\_Code\DataScript_cs\obj\Debug\net8.0\DataScript_cs.AssemblyInfoInputs.cache
+f:\_Code\DataScript_cs\obj\Debug\net8.0\DataScript_cs.AssemblyInfo.cs
+f:\_Code\DataScript_cs\obj\Debug\net8.0\DataScript_cs.csproj.CoreCompileInputs.cache
+f:\_Code\DataScript_cs\obj\Debug\net8.0\DataScript_cs.dll
+f:\_Code\DataScript_cs\obj\Debug\net8.0\refint\DataScript_cs.dll
+f:\_Code\DataScript_cs\obj\Debug\net8.0\DataScript_cs.pdb
+f:\_Code\DataScript_cs\obj\Debug\net8.0\DataScript_cs.genruntimeconfig.cache
+f:\_Code\DataScript_cs\obj\Debug\net8.0\ref\DataScript_cs.dll
